@@ -1,0 +1,7 @@
+.bg-foto{
+  background-image: url('../assets/img/dice-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 0;
+}
